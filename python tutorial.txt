@@ -5,9 +5,8 @@ variables
 datatypes
 branching statements
 oops 
-
 exception handling
 this is more important
-
 loops 
+spaces are causing the issue
 
